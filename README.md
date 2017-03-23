@@ -1,3 +1,3 @@
 # ListaContacteOracleDBServletJSP
 
-------- Java WEB application (Servlet, JSP) connecting to an Oracle DB – functions: read, write, update.
+------- Java WEB application (Servlet, JSP) that connects to a database – functions: read, write, update, delete.
